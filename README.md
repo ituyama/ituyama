@@ -8,6 +8,7 @@
   <li>武蔵野大学データサイエンス学部　３年生</li>
     
 </ul>
+いつも書いてるコード仕事の都合でprivateなのでほとんど見るものないです　ごめん
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ituyama&layout=compact&show_icons=true&theme=onedark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=ituyama&theme=onedark&show_icons=ture" />
