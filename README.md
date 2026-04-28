@@ -1,10 +1,10 @@
-## 森羅万象エンジニアをしています
+## エンジニアです
 
 <ul>
   <li>合同会社DMM.com　エンジニア</li>
   <li>株式会社Xtraveler CSO</li>
   <li>合同会社JOYNs 技術顧問</li>
-  <li>武蔵野大学データサイエンス学部　4年生</li>
+  <li>Mitologie合同会社 Co-CEO</li>
   
 
   
